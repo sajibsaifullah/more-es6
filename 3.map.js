@@ -30,7 +30,7 @@ const makeDoubleDirect2 = numbers.map(x => x * 2);
 
 
 const fiveTimes = [1, 2, 3, 4, 5].map(x => x * 5);
-console.log(fiveTimes);
+// console.log(fiveTimes);
 
 const makeSquare = [1, 2, 3, 4, 5].map(x => x * x);
 console.log(makeSquare);
